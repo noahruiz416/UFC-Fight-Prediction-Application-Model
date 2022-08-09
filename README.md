@@ -4,9 +4,12 @@ Directory for the in progress UFC Fight Prediction Application. When completed t
 ## Resource Guide:
 Within this readme you will find various links, which lead to different files in this repository. 
 
+### Notebooks
+Notebooks for this project, go here if you want a nice interactive format for this project additionally I recommend using google collab for uploading:
+- https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/tree/main/Notebooks
 
 ### Prototype
-Initial Exploratory Notebook Analysis of the dataset, baseline models and other Ad-hoc tests:
+Initial prototypes of the dataset, baseline models and other Ad-hoc tests:
 - https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/tree/main/Prototypes
 
 ### Data:
