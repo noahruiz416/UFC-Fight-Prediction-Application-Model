@@ -1,4 +1,7 @@
-# Noah Ruiz - Data Science Portfolio
+# Noah Ruiz - Data Science & Statistics 
+
+![BSC HEADSHOTS Compress](https://user-images.githubusercontent.com/88412646/185980942-c24078a5-1fa2-45ae-a205-03daf802dc21.jpg)
+
 ---
 ## My Projects
 
@@ -10,9 +13,9 @@
 
 ## Skills
 
-:bar_chart:  I enjoy deriving useful information from meaningless data
-:desktop_computer: I leverage my background with statistics to develop statistical models that "learn" from data.
-:boxing_glove: On my spare time I also train Muay Thai and other combat sports!
+- :bar_chart:  I enjoy deriving useful information from meaningless data
+- :desktop_computer: I leverage my background with statistics to develop statistical models that "learn" from data.
+- :boxing_glove: On my spare time I also train Muay Thai and other combat sports!
 
 ## Links
 
