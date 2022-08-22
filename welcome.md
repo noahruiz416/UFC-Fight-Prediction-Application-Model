@@ -1,14 +1,10 @@
 # Noah Ruiz - Data Science & Statistics 
 
-![1640982746449_filtered](https://user-images.githubusercontent.com/88412646/185981259-a2a36cbc-7c3d-4f60-8a26-cbad56ab278c.JPG)
-
 ---
 ## My Projects
 
 - :boxing_glove: UFC Fight Predictions: Simple app to predict UFC fights, repo: https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model
-
 - :house: Homelessness Clustering Analysis Maricopa County, repo: https://github.com/noahruiz416/Homelessness_Clustering_Comparisons
-
 - :car: City of Tempe Fatal Traffic Accident Classification, repo: https://github.com/noahruiz416/Tempe_Traffic_Classification
 
 ## Skills
