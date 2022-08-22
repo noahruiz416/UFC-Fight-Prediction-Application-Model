@@ -2,7 +2,7 @@
 
 ---
 
-<img width="250" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
+<img width="100" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
 
 ## My Projects
 
