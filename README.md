@@ -1,5 +1,8 @@
 # UFC-Fight-Predction-Application-Model Project Directory
-Directory for the in progress UFC Fight Prediction Application. When completed this application will take basic user input and will predict the probability of a winner, given two UFC fighters. As of 08/08/22 the project is in early phases and is still in the process of developing an accurate model.
+Directory for the in progress UFC Fight Prediction Application. When completed this application will take basic user input and will predict the probability of a winner, given two UFC fighters. 
+
+#Status Update:
+Model building process is complete. Currently in the process of developing the notebook that will act as a 'front end' user interface leveraging mercury. See mercury for example: https://mljar.com/mercury/
 
 ## Resource Guide:
 Within this readme you will find various links, which lead to different files in this repository. 
