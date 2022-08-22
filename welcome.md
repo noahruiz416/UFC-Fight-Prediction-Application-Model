@@ -1,6 +1,6 @@
 # Noah Ruiz - Data Science & Statistics 
 
-![BSC HEADSHOTS Compress](https://user-images.githubusercontent.com/88412646/185980942-c24078a5-1fa2-45ae-a205-03daf802dc21.jpg)
+![1640982746449_filtered](https://user-images.githubusercontent.com/88412646/185981259-a2a36cbc-7c3d-4f60-8a26-cbad56ab278c.JPG)
 
 ---
 ## My Projects
