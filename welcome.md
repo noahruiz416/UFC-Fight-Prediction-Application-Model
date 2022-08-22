@@ -6,6 +6,8 @@
 
 :wave: Hello! My name is Noah I'm an undergrad at Arizona State Unvieristy Studying Math & Stats with a minor in Economics. On this page you'll find a collection of my personal projects and a simple application I made to predict UFC fights. I'm passionate about stats, ML and Data Science and enjoy solving challenging problems with data solutions.
 
+- If your an MMA fan and want to predict some UFC fights go here: https://ufc-fight-predictions.herokuapp.com/app/1
+
 ---
 
 ## My Projects
