@@ -1,6 +1,9 @@
 # Noah Ruiz - Data Science & Statistics 
 
 ---
+
+<img width="350" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
+
 ## My Projects
 
 - :boxing_glove: UFC Fight Predictions: Simple app to predict UFC fights, repo: https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model
