@@ -6,4 +6,3 @@ pandas
 numpy
 shap
 catboost
-jupyter-notebook
