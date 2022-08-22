@@ -2,7 +2,10 @@
 
 ---
 
-<img width="100" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
+<img width="150" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
+- :wave: Hello! My name is Noah I'm an undergrad at Arizona State Unvieristy Studying Math & Stats with a minor in Economics. On this page you'll find a collection of my personal projects and a simple application I made to predict UFC fights. 
+
+---
 
 ## My Projects
 
@@ -20,5 +23,6 @@
 
 - :office: [Linkedin profile](https://www.linkedin.com/in/noahruiz416/)
 - :sunglasses: [Github account](https://github.com/noahruiz416)
+- :page_facing_up: Resume: [Noah_Ruiz_Resume-2.pdf]
 
 ## :notebook: My Notebooks :notebook:
