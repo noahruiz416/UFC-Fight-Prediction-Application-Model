@@ -1,6 +1,5 @@
 mljar-mercury
 matplotlib
-pickle
 termcolor
 ipython-genutils
 pandas
