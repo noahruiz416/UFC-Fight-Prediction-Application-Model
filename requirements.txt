@@ -6,3 +6,5 @@ pandas
 numpy
 shap
 catboost
+ipywidgets
+notebook_tqdm
