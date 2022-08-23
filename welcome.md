@@ -26,6 +26,6 @@
 
 - :office: [Linkedin profile](https://www.linkedin.com/in/noahruiz416/)
 - :sunglasses: [Github account](https://github.com/noahruiz416)
-- :page_facing_up: [My Resume](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9396395/Noah_Ruiz_Resume-2.pdf)
+- :page_facing_up: [My Resume](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9404371/Noah_Ruiz_Resume_CV.pdf)
 
 ## :notebook: My Notebooks :notebook:
