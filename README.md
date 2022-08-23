@@ -1,5 +1,5 @@
 # UFC-Fight-Predction-Application-Model Project Directory
-Directory for the in progress UFC Fight Prediction Application. When completed this application will take basic user input and will predict the probability of a winner, given two UFC fighters. 
+<img width="500" alt="Screen Shot 2022-08-23 at 9 06 30 AM" src="https://user-images.githubusercontent.com/88412646/186207419-047394a0-7d1a-487b-b9ed-238c0357f82a.png">
 
 # Status Update:
 V.1 of the project is Complete! I deployed the model to a simple heroku server and leveraged mercury in order to take advatnage of a simple jupyter notebook framework. As of now I am in the process of writing a user manual/guide and documentation. In addition V.1.1 will come out relatively soon and I plan on adding a few more features on the back and front end of this project. 
