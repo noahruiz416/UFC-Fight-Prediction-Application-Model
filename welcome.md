@@ -6,7 +6,7 @@
 
 :wave: Hello! My name is Noah I'm an undergrad at Arizona State Unvieristy Studying Math & Stats with a minor in Economics. On this page you'll find a collection of my personal projects and a simple application I made to predict UFC fights. I'm passionate about stats, ML and Data Science and enjoy solving challenging problems with data solutions.
 
-- If your an MMA fan and want to predict some UFC fights go here: https://ufc-fight-predictions.herokuapp.com/app/1
+- If your an MMA fan and want to predict some UFC fights go here: https://noahruiz-about-me.herokuapp.com/app/1
 
 ---
 
@@ -26,6 +26,7 @@
 
 - :office: [Linkedin profile](https://www.linkedin.com/in/noahruiz416/)
 - :sunglasses: [Github account](https://github.com/noahruiz416)
-- :page_facing_up: [My Resume](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9404371/Noah_Ruiz_Resume_CV.pdf)
+- :page_facing_up: [My Resume](Noah_Ruiz_Resume_Fall_2022.pdf](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9429493/Noah_Ruiz_Resume_Fall_2022.pdf)
+)
 
 ## :notebook: My Notebooks :notebook:
