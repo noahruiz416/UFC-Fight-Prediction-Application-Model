@@ -4,11 +4,14 @@
 
 <img width="150" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
 
-:wave: Hello! My name is Noah. I'm an undergraduate student at Arizona State University Studying Mathematics & Statistics with a minor in Economics. On this page you'll find a collection of my personal projects and a simple application I made to predict UFC fights. I'm passionate about stats, ML and Data Science and enjoy solving challenging problems with data.
+:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Mathematics & Statistics with a minor in Economics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science.
 
-:books: In addition I offer tutoring services for college level calculus & statistics courses. For more information please contact me @nkrtutoring@gmail.com. As of now I am tutoring the following subjects: Introductory Calculus For Business/Engineering Students (MAT 210, 211, 265, 270) and Business/Engineering Statistics (ECN 221, STP 420, IEE 380)
+:books: In addition I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with ASU as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the economics department.
+
+For more information please contact me @nkrtutoring@gmail.com. As of now I am tutoring the following subjects: Introductory Calculus For Business/Engineering Students (MAT 210, 211, 265, 270) and Business/Engineering Statistics (ECN 221, STP 420, IEE 380)
 
 :books: Scheduling Link: https://calendly.com/nkrtutoring/60min
+  - Current Rate: $20/hr for services
 
 ---
 
