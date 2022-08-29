@@ -6,10 +6,9 @@
 
 :wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Mathematics & Statistics with a minor in Economics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science. On this site you will find a wide array of content ranging from personal projects, tutoring services and more. 
 
----
-
 :point_down: Scroll down to see more! :point_down:
 
+---
 
 ## Tutoring Services
 
