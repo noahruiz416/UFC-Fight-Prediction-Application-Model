@@ -8,10 +8,11 @@
 
 :books: In addition I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with ASU as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the economics department.
 
-For more information please contact me @nkrtutoring@gmail.com. As of now I am tutoring the following subjects: Introductory Calculus For Business/Engineering Students (MAT 210, 211, 265, 270) and Business/Engineering Statistics (ECN 221, STP 420, IEE 380)
+For more information please contact me @nkrtutoring@gmail.com or at the scheduling link below. As of now my tutoring is tailored for ASU students with an emphasis on business and engineering math courses.
 
-:books: Scheduling Link: https://calendly.com/nkrtutoring/60min
+  - Scheduling Link: https://calendly.com/nkrtutoring/60min
   - Current Rate: $20/hr for services
+  - Courses Tutoring: MAT 210, 211, 265, 270, ECN 221, STP 420, IEE 380
 
 ---
 
