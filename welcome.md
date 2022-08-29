@@ -6,7 +6,7 @@
 
 :wave: Hello! My name is Noah. I'm an undergraduate student at Arizona State University Studying Mathematics & Statistics with a minor in Economics. On this page you'll find a collection of my personal projects and a simple application I made to predict UFC fights. I'm passionate about stats, ML and Data Science and enjoy solving challenging problems with data.
 
-- If your an MMA fan and want to predict some UFC fights go here: https://noahruiz-about-me.herokuapp.com/app/1
+In addition I offer tutoring services for college level calculus & statistics courses. For more information please contact me @nkrtutoring@gmail.com. As of now I am tutoring the following subjects: Introductory Calculus For Business/Engineering Students (MAT 210, 211, 265, 270) and Business/Engineering Statistics (ECN 221, STP 420, IEE 380)
 
 ---
 
