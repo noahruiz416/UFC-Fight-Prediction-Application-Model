@@ -4,17 +4,21 @@
 
 <img width="150" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
 
-:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Mathematics & Statistics with a minor in Economics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science.
+:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Mathematics & Statistics with a minor in Economics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science. On this site you will find a wide array of content ranging from personal projects, tutoring services and more. 
 
-:books: In addition I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with ASU as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the economics department.
+:point_down: Scroll down to see more! :point_down:
+
+---
+
+## Tutoring Services
+
+:books: I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with ASU as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the economics department.
 
 For more information please contact me @nkrtutoring@gmail.com or at the scheduling link below. As of now my tutoring is tailored for ASU students with an emphasis on business and engineering math courses.
 
   - Scheduling Link: https://calendly.com/nkrtutoring/60min
   - Current Rate: $20/hr for services
   - Courses Tutoring: MAT 210, 211, 265, 270, ECN 221, STP 420, IEE 380
-
----
 
 ## My Projects
 
