@@ -5,7 +5,7 @@
 V.1 of the project is Complete! I deployed the model to a simple heroku server and leveraged mercury in order to take advatnage of a simple jupyter notebook framework. As of now I am in the process of writing a user manual/guide and documentation. In addition V.1.1 will come out relatively soon and I plan on adding a few more features on the back and front end of this project. 
 
 # Project Link: 
-- https://ufc-fight-predictions.herokuapp.com
+- https://noahruiz-about-me.herokuapp.com
 
 ## Resource Guide:
 Within this readme you will find various links, which lead to different files in this repository. 
