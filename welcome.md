@@ -17,9 +17,9 @@ On this site you will find a wide array of content ranging from personal project
 
 ## Tutoring Services
 
-:books: I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with ASU as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the economics department.
+:books: I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with my university as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the Economics department. 
 
-For more information please contact me @nkrtutoring@gmail.com or at the scheduling link below. As of now my tutoring is tailored for ASU students with an emphasis on business and engineering math courses.
+For more information please contact me @nkrtutoring@gmail.com or at the scheduling link below. As of now my tutoring is tailored for college students with an emphasis on calculus/statistics for business and engineering math courses.
 
   - Scheduling Link: https://calendly.com/nkrtutoring/60min
   - Current Rate: $20/hr for services
