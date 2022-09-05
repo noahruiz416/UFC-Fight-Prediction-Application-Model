@@ -25,9 +25,6 @@ Within this readme you will find various links, which lead to different files in
 Contains simple read me files that explain various aspects of the model.
 - https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/blob/main/Docs/Model_Card.md
 
-### Project Analysis and New Insights: 
-In Progress as of 8/23/22
-
 ### Notebooks
 Notebooks for this project, go here if you want a nice interactive format for this project additionally I recommend using google collab for uploading:
 - https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/tree/main/Notebooks
