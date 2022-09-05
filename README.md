@@ -22,7 +22,8 @@ After building the model I leveraged mercury to host a jupyter notebook in an in
 Within this readme you will find various links, which lead to different files in this repository. 
 
 ### Docs/User Manual: 
-In Progress as of 8/23/22
+Contains simple read me files that explain various aspects of the model.
+- https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/blob/main/Docs/Model_Card.md
 
 ### Project Analysis and New Insights: 
 In Progress as of 8/23/22
