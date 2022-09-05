@@ -4,6 +4,17 @@
 # Status Update:
 V.1 of the project is Complete! I deployed the model to a simple heroku server and leveraged mercury in order to take advatnage of a simple jupyter notebook framework. As of now I am in the process of writing a user manual/guide and documentation. In addition V.1.1 will come out relatively soon and I plan on adding a few more features on the back and front end of this project. 
 
+# Summary: 
+V.1 of this project incorporates a simple user interface and a machine learning classification model, to allow fight fans to predict UFC fights, given simple user inputted fight statistics. The model was trained over an iterative process in which multiple modeling techniques and feature combinations were considered until we got the best out of sample results. Overall the model itself reports accuracy of 68% with an F1 Score (Our Metric of Choice) of 70% on the out of sample data. The model used is 'CatBoost' an ensemble learning method that allows for categorical variables as input features, this allowed us to consider fighter name in the model. In addition I used shapley values to find the features that account for the marginal contribution to the predicted values.
+
+In doing so I found these features to add the most to the models classifications: 
+ - Fighter Age 
+ - Fighter Reach 
+ - Fighter Name 
+ - Fighter Losses
+
+After building the model I leveraged mercury to host a jupyter notebook in an interactive user interface, that allows users to input values and make predictions with the trained CatBoost model. Finally I deployed the model to a Heroku web server which hosts the application for anyone to use.
+
 # Project Link: 
 - https://noahruiz-about-me.herokuapp.com/app/1
 
