@@ -3,6 +3,17 @@
 ## Summary 
 This file contains information regarding the UFC prediction application and how fight fans can utilize the model to make predictions on upcoming UFC fights. In addition keep in mind that the example you will see initially is just how the model would run given no input data.
 
+### Test Case
+To see how the application works input the following data in in particular this instance accuratley predicted the Marlon Vera vs Dominick Cruz fight: 
+  - Blue Corner Reach in Centimeters: 173
+  - Red Corner Reach in Centimeters: 179
+  - Blue Corners Age: 29
+  - Red Corners Age: 37
+  - Blue Corners Name: Dominick Cruz
+  - Red Corners Name: Marlon Vera
+  - Red Corner Losses: 7
+  - Blue Corner Losses: 3
+
 ### Input Data 
 In order to actually utilize the fight prediction tool, you will need to enter the information prompted by the boxes on the left. If you do not fill out all the boxes the model will not work and no prediction will be made. 
 After that as long as the information you entered is correct you should get a basic prompt back with probabilities assigned to which fighter is most likely to win. Below that prompt you will also see a graph that explains 
