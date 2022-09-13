@@ -7,8 +7,8 @@ This file contains information regarding the UFC prediction application and how 
 To see how the application works input the following data in in particular this instance accuratley predicted the Marlon Vera vs Dominick Cruz fight: 
   - Blue Corner Reach in Centimeters: 173
   - Red Corner Reach in Centimeters: 179
-  - Blue Corners Age: 29
-  - Red Corners Age: 37
+  - Blue Corners Age: 37
+  - Red Corners Age: 29
   - Blue Corners Name: Dominick Cruz
   - Red Corners Name: Marlon Vera
   - Red Corner Losses: 7
