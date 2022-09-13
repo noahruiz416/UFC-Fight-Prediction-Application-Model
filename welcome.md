@@ -53,4 +53,6 @@ For more information please contact me @nkrtutoring@gmail.com or at the scheduli
 ---
 
 ## :notebook: My Notebooks :notebook:
-  - For the Application here is the user guide, I would also recommend reading the model card in the docs: https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/blob/main/Docs/UserGuide.md
+  - For the UFC Application here is the user guide. I would also recommend reading the model card in the docs: https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/blob/main/Docs/UserGuide.md
+  - Further excpect to get a simple 'is literal' error on the first run which should go away after the 1st run. Also the error does not effect the prediction quality
+  - I would recommend using the test cases in he User Guide, to get an idea of how the model works and see an instance in which the model predicted a correct UFC fight outcome.
