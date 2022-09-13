@@ -53,3 +53,4 @@ For more information please contact me @nkrtutoring@gmail.com or at the scheduli
 ---
 
 ## :notebook: My Notebooks :notebook:
+  - For the Application here is the user guide, I would also recommend reading the model card in the docs: https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/blob/main/Docs/UserGuide.md
