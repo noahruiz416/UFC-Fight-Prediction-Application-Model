@@ -5,7 +5,7 @@
 <img width="150" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
 
 
-:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Economics with minors both Mathematics and Statistics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science. 
+:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Economics with minors in both Mathematics and Statistics. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science. 
 
 Currently I'm interning at Pacific Northwest National Labratory within Geospatial Data Science and at Nationwide Insurance in Close Analytics. In both roles I leverage my background with Statistics to develop advanced analytics solutions.
 
