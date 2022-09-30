@@ -5,7 +5,7 @@
 <img width="150" alt="Screen Shot 2022-08-22 at 10 23 23 AM" src="https://user-images.githubusercontent.com/88412646/185981902-80aee596-04e0-47b0-b342-0e55abbf3479.png">
 
 
-:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Mathematics & Statistics with a minor in Economics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science. 
+:wave: Hello! My name is Noah. I'm a Junior at Arizona State University Studying Economics with minors both Mathematics and Statistics. I'm passionate about Statistics, Machine Learning and Data Science. I enjoy solving challenging problems with data and have a proven professional track record in analytics and data science. 
 
 Currently I'm interning at Pacific Northwest National Labratory within Geospatial Data Science and at Nationwide Insurance in Close Analytics. In both roles I leverage my background with Statistics to develop advanced analytics solutions.
 
@@ -47,7 +47,7 @@ For more information please contact me @nkrtutoring@gmail.com or at the scheduli
 
 - :office: [Linkedin profile](https://www.linkedin.com/in/noahruiz416/)
 - :sunglasses: [Github account](https://github.com/noahruiz416)
-- :page_facing_up: [My Resume](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9429495/Noah_Ruiz_Resume_Fall_2022.pdf)
+- :page_facing_up: [My Resume](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9687982/NoahRuizResume-3.pdf)
 - :books: Relevant Academic Courses: Econometrics (ECN 425), Applied Statistics (STP 420), Regression Analysis (STP 429), Intermediate Microeconomics (ECN 312), Calc I - III (MAT 270 - MAT 272), Linear Algebra (MAT 343), Intro Information Systems (CIS 235), Object Oriented Programming and Data Structures (CSE 205) 
 
 ---
