@@ -47,7 +47,7 @@ For more information please contact me @nkrtutoring@gmail.com or at the scheduli
 
 - :office: [Linkedin profile](https://www.linkedin.com/in/noahruiz416/)
 - :sunglasses: [Github account](https://github.com/noahruiz416)
-- :page_facing_up: [My Resume][NoahRuizResume-2.pdf](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9702775/NoahRuizResume-2.pdf)
+- :page_facing_up: [My Resume](https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model/files/9702775/NoahRuizResume-2.pdf)
 - :books: Relevant Academic Courses: Econometrics (ECN 425), Applied Statistics (STP 420), Regression Analysis (STP 429), Intermediate Microeconomics (ECN 312), Calc I - III (MAT 270 - MAT 272), Linear Algebra (MAT 343), Intro Information Systems (CIS 235), Object Oriented Programming and Data Structures (CSE 205) 
 
 ---
