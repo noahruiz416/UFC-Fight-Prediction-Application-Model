@@ -15,18 +15,6 @@ On this site you will find a wide array of content ranging from personal project
 
 ---
 
-## Tutoring Services
-
-:books: I offer tutoring services for college level calculus & statistics courses. In the past I've worked directly with my university as a Mathematics/Stats tutor and as an Supplemental Instruction Lead for the Economics department. 
-
-For more information please contact me @nkrtutoring@gmail.com or at the scheduling link below. As of now my tutoring is tailored for college students with an emphasis on calculus/statistics for business and engineering math courses.
-
-  - Scheduling Link: https://calendly.com/nkrtutoring/60min
-  - Current Rate: $20/hr for services
-  - Courses Tutoring: MAT 210, 211, 265, 270, ECN 221, STP 420, IEE 380
-
----
-
 ## My Projects
 
 - :boxing_glove: UFC Fight Predictions: Simple web app to predict UFC fights, repo: https://github.com/noahruiz416/UFC-Fight-Prediction-Application-Model
